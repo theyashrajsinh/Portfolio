@@ -38,7 +38,7 @@ With a strong foundation in various Automation technologies and Project Manageme
 
 ## 📫 How to reach me 
 
-- [LinkedIn](https://www.linkedin.com/in/theyashrajsinj/)
+- [LinkedIn](https://www.linkedin.com/in/theyashrajsinh/)
 
 
 
