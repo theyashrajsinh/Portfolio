@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hello! I'm **Yashraj**, a Customer-focused Project Engineer with over 8 years of experience in the engineering, testing, commissioning, and servicing of industrial automation projects. My expertise lies in managing and enhancing team efficiency, productivity, and project execution, contributing significantly to company profitability. With a strong foundation in various automation technologies and project management, I lead teams effectively to achieve exceptional results.
+Hello! I'm **Yashraj**, a Customer-focused Project Engineer with over 8 years of experience in the DCS Engineering, Testing, Commissioning, and Servicing of Industrial Automation projects. My expertise lies in managing and enhancing team efficiency, productivity, and project execution, contributing significantly to company profitability. With a strong foundation in various Automation technologies and project management, I lead teams effectively to achieve exceptional results.
 
 ## Skills & Expertise
 
-- **Industrial Automation**: Expertise in project life cycle management, including engineering, commissioning, and servicing of Power Management Systems.
+- **Project Engineering**: Expertise in DCS project life cycle management, including Engineering, Testing, Commissioning, and Servicing of Power Management Systems.
 - **Project Management**: Proven experience in handling multiple projects, including cost and quality management, project documentation, and progress reporting.
 - **Technical Proficiency**:
   - **Programming & Engineering**: Proficient in IEC-61131-3 languages (FBD, ST, SFC), and various communication protocols (Modbus, IEC61850, etc.).
